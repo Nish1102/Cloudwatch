@@ -1,0 +1,4 @@
+- Implement `simulate_cpu_spike` function to generate CPU utilization spikes
+- Function includes parameters for duration and target CPU percentage
+- Uses arithmetic operations to simulate high CPU usage
+- Includes sleep mechanism to ensure the simulation runs for the specified duration
